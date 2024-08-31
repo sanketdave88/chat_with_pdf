@@ -1,7 +1,3 @@
-Based on the contents of your Jupyter notebook, here is a draft for your README file tailored for a GitHub repository.
-
----
-
 # **Custom Knowledge ChatGPT with LangChain - Chat with PDFs**
 
 This project demonstrates how to create a custom chatbot using ChatGPT with the LangChain library, specifically designed to interact with PDF documents. The notebook covers the installation of necessary libraries, loading and processing PDF files, embedding text, creating a retrieval function, and optionally, setting up a chatbot with memory.
@@ -88,6 +84,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This project utilizes [LangChain](https://github.com/hwchase17/langchain), [OpenAI](https://openai.com/), and various other open-source tools to create an interactive PDF chatbot.
 
----
-
-This README provides a structured overview and should be sufficient for most users to understand and set up the project. Let me know if you need any further customization!
